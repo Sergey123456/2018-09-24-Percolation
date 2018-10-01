@@ -125,4 +125,6 @@ public class PercolationWithoutQuickUnionFind {
 		if (row < 1 || row > n || col < 1 || col > n)
 			throw new IllegalArgumentException();
 	}
+	
+	
 }
